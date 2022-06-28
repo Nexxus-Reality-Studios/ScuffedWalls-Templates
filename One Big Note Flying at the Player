@@ -1,0 +1,4 @@
+0: note
+duration: 5
+animateDefinitePosition: [2,2,5,1],[2,2,0,0]
+scale: [3,3,3]
