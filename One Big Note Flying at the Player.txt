@@ -2,5 +2,6 @@
   animateDefinitePosition: [2, 2, 5, 0], [2, 2, 0.5, 1] 
   definitedurationbeats:3
   animateScale: [3, 3, 3, 0]
-  animateDissolve:[1, 0], [0, 0.5, "easeInCubic"]
-  animateDissolveArrow:[1, 0], [0, 0.5, "easeInCubic"]
+  animateDissolve:[1, 0], [0, 0.1, "easeInCubic"]
+  animateDissolveArrow:[1, 0], [0, 0.1, "easeInCubic"]
+  track:EverythingTrack
