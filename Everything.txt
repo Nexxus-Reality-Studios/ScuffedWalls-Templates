@@ -1,3 +1,9 @@
 0:AssignPlayerToTrack
   track:EverytgingTrack
 
+1:AnimateTrack
+  track:EverythingTrack
+  duration:3
+  AnimatePosition:[0,0,0,0],[0,0,5,1"easeOutSine"]
+  
+  
