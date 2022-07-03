@@ -4,5 +4,5 @@
 
 1:AnimateTrack
   track:EverythingTrack
-  duration:8
-  AnimatePosition:[0,0,0,0],[0,50,0,1"easeOutSine"]
+  duration:3
+  AnimatePosition:[0,0,0,0],[0,0,5,1"easeOutSine"]
