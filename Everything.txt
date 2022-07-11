@@ -1,5 +1,8 @@
 0:AssignPlayerToTrack
   track:EverythingTrack
+ 
+ 0:Import
+  Path:ExpertPlusStandard_Old.dat
 
 1:AnimateTrack
   track:EverythingTrack
