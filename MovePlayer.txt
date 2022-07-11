@@ -1,5 +1,5 @@
 0:AssignPlayerToTrack
-  track:EverytgingTrack
+  track:EverythingTrack
 
 1:AnimateTrack
   track:EverythingTrack
